@@ -2,7 +2,10 @@
 
 > **"Construct your ideal reality"** – IdealityApp is an AR-enhanced e-commerce app for furniture and interior previews, bridging the gap between online catalogs and the real world.
 
-![IdealityApp Logo](https://path-to-your-logo.png)
+![image](https://github.com/user-attachments/assets/cb829968-e32d-4a71-831b-0132303ba437)
+![image](https://github.com/user-attachments/assets/b9e3f45f-0e58-4289-b278-19d6f352b7a9)
+
+
 
 ## 📱 Introduction
 
@@ -53,7 +56,7 @@ The app enables users to visualize true-to-scale 3D models of furniture in their
 
 ## 📱 App Overview
 
-![App Screens Overview](https://path-to-your-app-overview-image.png)
+![image](https://github.com/user-attachments/assets/fa9aad3c-87c6-4ab4-9fbf-7ef8fc3a61b7)
 
 This composite image provides an overview of the main screens and user flows in IdealityApp:
 - Onboarding (Login & Signup)
